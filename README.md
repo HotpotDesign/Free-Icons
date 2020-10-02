@@ -1,4 +1,4 @@
-# Free-Icons
+# Free Icons
 This list is maintained by [Hotpot.ai](https://hotpot.ai?s=github-free-icons). Hotpot is a new way to simplify graphic design. Hotpot helps you create attractive [social media posts](https://hotpot.ai/templates/instagram-post?s=github-free-icons), [App Store screenshots](https://hotpot.ai/templates/iphone-xs-max?s=github-free-icons), [Google Play screenshots](https://hotpot.ai/templates/samsung-s10?s=github-free-icons), [app icons](https://hotpot.ai/templates/app-store-icon?s=github-free-icons), [logos](https://hotpot.ai/templates/text-design?s=github-free-icons) and other graphics for games, apps, and extensions.
 
 This page was originally posted on [Hotpot.ai](https://hotpot.ai/free-icons), and is cross-referenced here for developer convenience and to simplify community contributions.
