@@ -39,3 +39,8 @@ To add or remove items from this list, please make a pull request.
 * https://glyphicons.com/
 * https://github.com/framework7io/framework7-icons
 * https://github.com/neilorangepeel/Free-Social-Icons
+* https://github.com/linea-io/Linea-Iconset
+* https://github.com/synthagency/icons-flat-osx
+* https://github.com/TrackDuck/free-icon-pack
+* https://github.com/jenstornell/free-icon-packs
+* https://github.com/webkul/mojoicons
